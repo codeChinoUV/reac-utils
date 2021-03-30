@@ -1,2 +1,2 @@
-# customHooks
-Contiene hooks personalizados utiles para proyectos en React
+# React utils
+Contiene hooks, routers, entre otras cosas utiles para proyectos en React
